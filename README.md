@@ -9,4 +9,4 @@ Want to track the progression of the modpack?: https://github.com/ItsBrendo/the-
 
 Getting started or need help with the modpack?: https://github.com/ItsBrendo/the-nuclear-wasteland/wiki
 
-Thankyou & enjoy!
+Thankyou & enjoy!!
