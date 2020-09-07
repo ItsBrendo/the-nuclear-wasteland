@@ -1,4 +1,4 @@
-# the-nuclear-wasteland
+# The Nuclear Wasteland
 A new vast radioactive filled, post-nuclear progression style minecraft modpack.
 
 Modpack Page: https://www.curseforge.com/minecraft/modpacks/the-nuclear-wasteland
