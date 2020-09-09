@@ -1,4 +1,5 @@
-# The Nuclear Wasteland https://cf.way2muchnoise.eu/full_405220_downloads.svg
+# The Nuclear Wasteland 
+https://cf.way2muchnoise.eu/full_405220_downloads.svg
 A new vast radioactive filled, post-nuclear progression style minecraft modpack.
 
 Modpack Page: https://www.curseforge.com/minecraft/modpacks/the-nuclear-wasteland
