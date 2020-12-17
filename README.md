@@ -12,6 +12,6 @@ Patch Notes of the Latest Update (0.2): https://github.com/ItsBrendo/the-nuclear
 
 Getting started or need help with the modpack?: https://github.com/ItsBrendo/the-nuclear-wasteland/wiki
 
-Create your own server with BisectHosting: https://bisecthosting.com/brendo
+Create your own server with BisectHosting: https://bisecthosting.com/brendo - Use code 'Brendo' for 25% off.
 
 Thankyou & enjoy!
