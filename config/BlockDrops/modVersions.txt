@@ -100,7 +100,7 @@
   "muon": "0.2",
   "exnihilocreatio": "1.12.2-0.4.7.2",
   "immersivepetroleum": "1.1.9",
-  "forge": "14.23.5.2854",
+  "forge": "14.23.5.2855",
   "ruins": "17.2",
   "brandonscore": "2.4.19",
   "ftbutilities": "5.4.1.131",
